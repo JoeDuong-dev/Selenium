@@ -3,5 +3,11 @@
     "lib/**/*.jar",
     "selenium-java-4.15.0/**/*.jar"
   ],
-  "java.compile.nullAnalysis.mode": "automatic"
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.project.sourcePaths": [
+    "selenium-java-4.15.0/lib",
+    "selenium-java-4.15.0",
+    "chromedriver_mac64",
+    "."
+  ]
 }
