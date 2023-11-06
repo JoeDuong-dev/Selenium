@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "selenium-java-4.15.0/**/*.jar"
+  ]
+}
